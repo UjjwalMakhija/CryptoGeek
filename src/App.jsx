@@ -4,6 +4,7 @@ function App() {
   let [a,b]=useState(20)
   return (
     
+    
     <div className='w-full h-screen bg-zinc-900 items-center flex flex-col justify-center'>
       <div className='w-44 h-32 rounded-xl bg-cyan-300 p-5 flex flex-col font-bold justify-center items-center'>
       <h1 > {a} </h1>
